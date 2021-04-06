@@ -1,0 +1,22 @@
+{
+  "name": "SRNetWorking",
+  "version": "0.1.0",
+  "summary": "A short description of SRNetWorking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/XiaoXiuXiuYe/SRNetWorking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "XiaoXiuXiuYe": "yanguixiu@sobey.com"
+  },
+  "source": {
+    "git": "https://github.com/XiaoXiuXiuYe/SRNetWorking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SRNetWorking/Classes/**/*"
+}

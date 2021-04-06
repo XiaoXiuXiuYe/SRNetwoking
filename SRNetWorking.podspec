@@ -20,11 +20,12 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
                        DESC
-
+ #主页
   s.homepage         = 'https://github.com/XiaoXiuXiuYe/SRNetWorking'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'XiaoXiuXiuYe' => 'yanguixiu@sobey.com' }
+  s.author           = { 'XiaoXiuXiuYe' => '894694887@qq.com' }
+  #路径
   s.source           = { :git => 'https://github.com/XiaoXiuXiuYe/SRNetWorking.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
@@ -38,5 +39,5 @@ TODO: Add long description of the pod here.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+   s.dependency 'AFNetworking', '~> 2.3'
 end
